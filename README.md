@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NataliaMS-stack
-- 👀 I’m interested in FullStack development, but mostly Front-end.
-- 🌱 I’m currently learning Java and ReactJS
-- 💞️ I’m looking to collaborate on projects that I can contribute positively with my knowledges in JavaScript, HTML, CSS, React, Java.
+- 👀 I’m interested in FullStack development, but mostly Back-end.
+- 🌱 I’m currently learning Java and AWS
+- 💞️ I’m looking to collaborate on projects that I can contribute positively with my knowledges in Java, AWS, HTML, CSS, JavaScript.
 - 📫 How to reach me via e-mail: natalia.santana27@gmail.com
 
 <!---
